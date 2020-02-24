@@ -1,2 +1,2 @@
-# gitflow
+# githubflow
 nice
